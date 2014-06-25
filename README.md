@@ -24,6 +24,7 @@ Please feel free to add things that you would like to hear about or speak about 
 * War Stories
 * Working in a high security environment with Puppet
 * Managing devices/APIs that are not able to run the agent
+* Reasons to select Puppet over other configuration management tools
 
 
 # Past Meetups
